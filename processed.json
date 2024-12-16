@@ -1,0 +1,242 @@
+[
+  {
+    "iteration_count": 0,
+    "iteration_size": 100000,
+    "runtime_join": 0.0009126663208007812,
+    "runtime_plus": 0.008607149124145508
+  },
+  {
+    "iteration_count": 1,
+    "iteration_size": 100000,
+    "runtime_join": 0.0010831356048583984,
+    "runtime_plus": 0.008505105972290039
+  },
+  {
+    "iteration_count": 2,
+    "iteration_size": 100000,
+    "runtime_join": 0.0009348392486572266,
+    "runtime_plus": 0.009097099304199219
+  },
+  {
+    "iteration_count": 3,
+    "iteration_size": 100000,
+    "runtime_join": 0.0009200572967529297,
+    "runtime_plus": 0.008775949478149414
+  },
+  {
+    "iteration_count": 4,
+    "iteration_size": 100000,
+    "runtime_join": 0.0008389949798583984,
+    "runtime_plus": 0.008661985397338867
+  },
+  {
+    "iteration_count": 5,
+    "iteration_size": 100000,
+    "runtime_join": 0.0009589195251464844,
+    "runtime_plus": 0.00856924057006836
+  },
+  {
+    "iteration_count": 6,
+    "iteration_size": 100000,
+    "runtime_join": 0.0008940696716308594,
+    "runtime_plus": 0.008612632751464844
+  },
+  {
+    "iteration_count": 7,
+    "iteration_size": 100000,
+    "runtime_join": 0.0009019374847412109,
+    "runtime_plus": 0.008508920669555664
+  },
+  {
+    "iteration_count": 8,
+    "iteration_size": 100000,
+    "runtime_join": 0.0008971691131591797,
+    "runtime_plus": 0.008512020111083984
+  },
+  {
+    "iteration_count": 9,
+    "iteration_size": 100000,
+    "runtime_join": 0.0009839534759521484,
+    "runtime_plus": 0.008598089218139648
+  },
+  {
+    "iteration_count": 0,
+    "iteration_size": 1000000,
+    "runtime_join": 0.00924062728881836,
+    "runtime_plus": 0.09095025062561035
+  },
+  {
+    "iteration_count": 1,
+    "iteration_size": 1000000,
+    "runtime_join": 0.009298086166381836,
+    "runtime_plus": 0.08922076225280762
+  },
+  {
+    "iteration_count": 2,
+    "iteration_size": 1000000,
+    "runtime_join": 0.008674860000610352,
+    "runtime_plus": 0.08968615531921387
+  },
+  {
+    "iteration_count": 3,
+    "iteration_size": 1000000,
+    "runtime_join": 0.008502960205078125,
+    "runtime_plus": 0.08905529975891113
+  },
+  {
+    "iteration_count": 4,
+    "iteration_size": 1000000,
+    "runtime_join": 0.008536100387573242,
+    "runtime_plus": 0.1060953140258789
+  },
+  {
+    "iteration_count": 5,
+    "iteration_size": 1000000,
+    "runtime_join": 0.009071826934814453,
+    "runtime_plus": 0.09125804901123047
+  },
+  {
+    "iteration_count": 6,
+    "iteration_size": 1000000,
+    "runtime_join": 0.00883030891418457,
+    "runtime_plus": 0.09011197090148926
+  },
+  {
+    "iteration_count": 7,
+    "iteration_size": 1000000,
+    "runtime_join": 0.008610010147094727,
+    "runtime_plus": 0.08976507186889648
+  },
+  {
+    "iteration_count": 8,
+    "iteration_size": 1000000,
+    "runtime_join": 0.008590221405029297,
+    "runtime_plus": 0.09078502655029297
+  },
+  {
+    "iteration_count": 9,
+    "iteration_size": 1000000,
+    "runtime_join": 0.008558034896850586,
+    "runtime_plus": 0.0898749828338623
+  },
+  {
+    "iteration_count": 0,
+    "iteration_size": 10000000,
+    "runtime_join": 0.12273693084716797,
+    "runtime_plus": 1.0242257118225098
+  },
+  {
+    "iteration_count": 1,
+    "iteration_size": 10000000,
+    "runtime_join": 0.11455988883972168,
+    "runtime_plus": 0.9120447635650635
+  },
+  {
+    "iteration_count": 2,
+    "iteration_size": 10000000,
+    "runtime_join": 0.10551714897155762,
+    "runtime_plus": 0.8918793201446533
+  },
+  {
+    "iteration_count": 3,
+    "iteration_size": 10000000,
+    "runtime_join": 0.09150099754333496,
+    "runtime_plus": 0.9130041599273682
+  },
+  {
+    "iteration_count": 4,
+    "iteration_size": 10000000,
+    "runtime_join": 0.11377286911010742,
+    "runtime_plus": 0.9047129154205322
+  },
+  {
+    "iteration_count": 5,
+    "iteration_size": 10000000,
+    "runtime_join": 0.09629988670349121,
+    "runtime_plus": 0.9176046848297119
+  },
+  {
+    "iteration_count": 6,
+    "iteration_size": 10000000,
+    "runtime_join": 0.09550809860229492,
+    "runtime_plus": 0.9508829116821289
+  },
+  {
+    "iteration_count": 7,
+    "iteration_size": 10000000,
+    "runtime_join": 0.09066891670227051,
+    "runtime_plus": 0.8966319561004639
+  },
+  {
+    "iteration_count": 8,
+    "iteration_size": 10000000,
+    "runtime_join": 0.09233808517456055,
+    "runtime_plus": 0.8886568546295166
+  },
+  {
+    "iteration_count": 9,
+    "iteration_size": 10000000,
+    "runtime_join": 0.08988499641418457,
+    "runtime_plus": 0.9184808731079102
+  },
+  {
+    "iteration_count": 0,
+    "iteration_size": 100000000,
+    "runtime_join": 8.908663988113403,
+    "runtime_plus": 24.27720308303833
+  },
+  {
+    "iteration_count": 1,
+    "iteration_size": 100000000,
+    "runtime_join": 8.155337810516357,
+    "runtime_plus": 16.157708644866943
+  },
+  {
+    "iteration_count": 2,
+    "iteration_size": 100000000,
+    "runtime_join": 7.8839497566223145,
+    "runtime_plus": 14.56076979637146
+  },
+  {
+    "iteration_count": 3,
+    "iteration_size": 100000000,
+    "runtime_join": 9.496390104293823,
+    "runtime_plus": 39.77377104759216
+  },
+  {
+    "iteration_count": 4,
+    "iteration_size": 100000000,
+    "runtime_join": 9.614968061447144,
+    "runtime_plus": 20.944728136062622
+  },
+  {
+    "iteration_count": 5,
+    "iteration_size": 100000000,
+    "runtime_join": 7.903839826583862,
+    "runtime_plus": 14.275031805038452
+  },
+  {
+    "iteration_count": 6,
+    "iteration_size": 100000000,
+    "runtime_join": 7.700863838195801,
+    "runtime_plus": 14.258737802505493
+  },
+  {
+    "iteration_count": 7,
+    "iteration_size": 100000000,
+    "runtime_join": 7.532695770263672,
+    "runtime_plus": 14.198922872543335
+  },
+  {
+    "iteration_count": 8,
+    "iteration_size": 100000000,
+    "runtime_join": 7.595174074172974,
+    "runtime_plus": 14.288684129714966
+  },
+  {
+    "iteration_count": 9,
+    "iteration_size": 100000000,
+    "runtime_join": 7.710719108581543,
+    "runtime_plus": 14.32384181022644
+  }
+]
